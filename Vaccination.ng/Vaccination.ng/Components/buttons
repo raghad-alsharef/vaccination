@@ -1,0 +1,8 @@
+    <button class="btn btn--check--st">check status</button>
+    <button class="btn btn--vacc">get vaccin</button>
+    <button class="btn btn--help">help center</button>
+    <button class="btn btn--sub">submit</button>
+    <button class="btn btn--check">check</button>
+    <button class="btn btn--ver--st">verify status</button>
+    <button class="btn btn--ver">verify</button>
+    <button class="btn btn--sub btn--submit ">submit</button>

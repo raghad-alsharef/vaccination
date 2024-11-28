@@ -1,0 +1,6 @@
+    <input type="text" class="input input--oke" placeholder="okeowo">
+    <input type="text" class="input input--nik" placeholder="NIK Number">
+    <input type="email" class="input input--email" placeholder="lenux.ng@gmail.com">
+    <input type="number" class="input input--phone" placeholder="phone number">
+    <input type="text"  class="input input--full" placeholder="full name">
+   
